@@ -10,4 +10,7 @@
 
 # PAM.D example:
 * The arguments are users to tarpit on
+
+eg, to tarpit root, daemon and nobody users:
+
 ` auth       sufficient     pam_tarpit.so root daemon nobody`
