@@ -1,6 +1,9 @@
 # pam_tarpit
 'tarpit' module for pam to piss off and slow down crackers
 
+# Debian Packages Required
+`apt-get install build-essential libpam-dev iptables-dev
+
 
 # Usage
 1. Compile the module
